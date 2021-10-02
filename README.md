@@ -1,2 +1,2 @@
-# NC-Weibull-Project
+# NC-Weibull-Project With Simpson 3/8
 The Weibull Distribution is a continuous probability distribution used to analyse life data, model failure times and access product reliability. It can also fit a huge range of data from many other fields like economics, hydrology, biology, engineering sciences. It is an extreme value of probability distribution which is frequently used to model the reliability, survival, wind speeds and other data. The only reason to use Weibull distribution is because of its flexibility. Because it can simulate various distributions like normal and exponential distributions. Weibull’s distribution reliability is measured with the help of parameters.
